@@ -10,6 +10,8 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+//  TEST FOR COMMIT to GITHUB
+
 public class MainActivity extends AppCompatActivity {
 
     String activePlayer = "Yellow";
