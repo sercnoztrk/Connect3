@@ -10,7 +10,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-//  TEST FOR COMMIT to GITHUB!!!
+//  Test commit to github
 
 public class MainActivity extends AppCompatActivity {
 
